@@ -6,3 +6,5 @@ Gemfile.lock
 misc
 gems/
 vendor/
+*.swp
+.rvmrc
